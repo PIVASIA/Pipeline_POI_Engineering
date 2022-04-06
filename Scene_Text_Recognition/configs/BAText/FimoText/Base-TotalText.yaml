@@ -1,0 +1,4 @@
+_BASE_: "../Base-BAText.yaml"
+DATASETS:
+  TRAIN: ("fimotext_train",)
+  TEST: ("fimotext_val",)
